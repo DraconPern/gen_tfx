@@ -1,0 +1,97 @@
+TransparentFX 1.10
+Copyright (c) 2001-2005 Ing-Long Eric Kuo
+Send question, comments and suggestions to dracon@hotmail.com
+http://www.draconpern.com
+------------------------------------------
+
+(this file best viewed with word wrap on.)
+
+TransparentFX enables transparent effects for Winamp2 that puts Winamp3's native alpha blending to shame by including fading and more customization.  It is a general purpose plug-in that reacts to a windows's active, mouseover, and inactive states.  It barley uses any system resources and you can tailor the settings to limit cpu usage.  Written in C++ so it doesn't have all that VB baggage.
+
+Skin authors can create custom settings for their skins to be used with TransparentFX.  For the coding developers, there is a Winamp style API so that external applications can control the plugin.
+
+TransparentFX is Freeware
+
+
+------------------------------------------
+1.10
+------------------------------------------
+Works correctly in Winamp 5.11
+
+------------------------------------------
+1.9
+------------------------------------------
+Works correctly in Winamp 5.
+
+------------------------------------------
+1.8.1
+------------------------------------------
+Backward compatible with older winamp versions that doesn't have Library support.
+
+------------------------------------------
+1.8
+------------------------------------------
+Added Library support for winamp 2.91.
+Linked Activation is now disable by default.
+Mouseover tracking is really fixed now, eg, even over the analyzer/scope
+Fixed config dialog linked indicator to support different dpi.
+Moved the Follow button to save space
+
+------------------------------------------
+1.7
+------------------------------------------
+Fixed a serious problem where the window disappeared when linked activation is turned off.
+
+------------------------------------------
+1.6
+------------------------------------------
+New MouseOver detection algorithm used.
+Fixed access violation that ocurred w/ Winamp 2.09 (and may be others).
+Better Active Window detection.
+Better Linked Activations.
+MouseOver can now be used when fading is turned off.
+General code clean up.
+
+------------------------------------------
+Features
+------------------------------------------
+Configurable levels of transparency for each of the four Winamp windows: Main Window, Playlist Editor, Equalizer, Minibrowser, and Library
+
+Each window has settings for window states: Active, Mouseover and Inactive for a total of 15 transparency settings.  Setting sliders can be linked together to move together with the Main Window setting to make configuration easier.
+
+Option to link activation of windows so that all Winamp windows behave like one large window.
+
+CPU usage conscious people can turn off options like Fading and Mouseover.
+
+Instant preview of setting changes.
+
+Fade time (advanced option) can be changed to speed up or slow down the fading process.
+
+Fading resolution can be changed to make fading smoother/choppier(use less CPU power)
+
+Comes with default settings that works with most skins.
+
+A comprehensive API for controlling the plugin.  Details at http://www.draconpern.com/TransparentFX/API.html
+
+Skin authors can include their own custom settings for individual skins and TransparentFX can load them automatically.  Or turn off the option to always use your own.  Visit http://www.draconpern.com/TransparentFX/skin_dev.html for details on how to incorporate custom settings within your own skin.
+
+------------------------------------------
+Requirements
+------------------------------------------
+Winamp 2.x
+Windows 2000 or XP
+
+------------------------------------------
+Acknowledgements
+------------------------------------------
+SledgeKBB
+nightwolf
+and of course, Nullsoft
+
+------------------------------------------
+Misc Info
+------------------------------------------
+Heya Lubbock, TX,
+Greets to LHS, class of 1998
+Greets to WashU, class of 2002
+
