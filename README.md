@@ -19,6 +19,9 @@ Just copy the gen_tfx.dll into the plugin directory of winamp.
 
 Released versions with installer is available from http://www.draconpern.com/software/transparentfx/
 
+The installer source is TransparentFX.PSC.  Installer was created using the Nullsoft MakePIMP Install System. A copy is available at https://github.com/DraconPern/MakePIMP
+
+
 License
 -------
 Source code is licensed under GPL v3
