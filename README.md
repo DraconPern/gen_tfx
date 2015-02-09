@@ -1,6 +1,8 @@
 TransparentFX winamp plugin
 ===========================
 
+Home page -> http://www.draconpern.com/software/transparentfx/
+
 TransparentFX is a plugin for Winamp2 to enable window alpha blending.  This was around the time frame of Windows 2000 and Windows XP.  It's 2015, and I have decided to open source the plugin. It is written in C++.
 
 `- Eric Kuo, February 2015.`
