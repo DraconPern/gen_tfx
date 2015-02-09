@@ -12,9 +12,9 @@
 ;   $DSPDIR  (dsp plug-in directory. DO NOT USE IN DefaultDir)
 
 ; Name specifies what the installer will use for its name
-Name TransparentFX 1.10
+Name TransparentFX 1.11
 Text TransparentFX enables transparency for Winamp's windows.  Visit www.draconpern.com for updates.
-OutFile TransparentFX110.exe
+OutFile TransparentFX111.exe
 SetOutPath Plugins
 
 AddFile F:\myfiles\Windows\gen_tfx\Release\gen_tfx.dll
